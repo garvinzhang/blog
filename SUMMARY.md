@@ -3,8 +3,9 @@
 * [gitbook](README.md)
 
 ## CodeLang
-* [go](CodeLang/golang.md)
-* [py](CodeLang/python.md)
+* CodeLang
+    * [go](CodeLang/golang.md)
+    * [py](CodeLang/python.md)
 
 ## DataTool
 * [mysql](DataTool/mysql.md)
