@@ -2,14 +2,14 @@
 
 * [gitbook](README.md)
 
-## CodeLang
 * CodeLang
     * [go](CodeLang/golang.md)
     * [py](CodeLang/python.md)
 
-## DataTool
-* [mysql](DataTool/mysql.md)
-* [redis](DataTool/redis.md)
+* DataTool
+    * [mysql](DataTool/mysql.md)
+    * [redis](DataTool/redis.md)
 
-### DevBase
-* [linux](DevBase/linux.md)
+    * DevBase
+        * [linux](DevBase/linux.md)
+        * [test](./README%20copy.md)
