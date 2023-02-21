@@ -1,11 +1,11 @@
 # blog
 
-.git/config file
+目录以及相关的说明
 
-url = https://github.com/garvinzhang/permanent.git 
-url = https://garvinzhang@github.com/garvinzhang/permanent.git 
+- [README](README.md)
 
-https://www.cnblogs.com/angel648/p/13366030.html
+- DATE
 
-
-试
+  - 202302
+    - [开发环境构建](Date/202302/21-10:05.md)
+    - [Linux 常用命令工具](Date/202302/21-10:27.md)
